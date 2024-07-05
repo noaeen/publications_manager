@@ -1,2 +1,6 @@
 streamlit
 streamlit-aggridgit
+pandas
+st_aggrid
+data_store
+json
